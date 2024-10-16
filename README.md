@@ -6,7 +6,7 @@ Me llamo **Ruben Estiven Alegrias Velasco**, tengo conocimientos y pasión por e
 
 ## Habilidades técnicas:
 - **Lenguajes de programación**:
-  ![JavaScript](https://media.giphy.com/media/3oEjI6SIIHBdRxXIYk/giphy.gif) 
+  ![JavaScript](https://camo.githubusercontent.com/a8c24c0c69005509721bcfa06b7818b2a732447e11f1a36c8cbda6937e533cd3/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6176612d69636f6e2e737667) 
   ![Python](https://media.giphy.com/media/2Gql2BYn1YBRNbb1rm/giphy.gif)
 
 - **Bases de datos**: MySQL, MongoDB
