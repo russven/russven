@@ -20,4 +20,7 @@ Me llamo **Ruben Estiven Alegrias Velasco**, tengo conocimientos y pasión por e
 - **Frameworks y tecnologías**: React, Node.js, Express, Bootstrap, Docker
 - **Herramientas**: Git, GitHub, Postman
 
-[Mi LinkedIn](https://www.linkedin.com/in/ruben-alegrias-b8560a2a5/)
+<a href="https://www.linkedin.com/in/ruben-alegrias-b8560a2a5/" target="_blank">
+  <img src="https://img.icons8.com/ios/452/linkedin.png" width="40" height="40"/>
+</a>
+(https://www.linkedin.com/in/ruben-alegrias-b8560a2a5/) 👀
