@@ -21,6 +21,6 @@ Me llamo **Ruben Estiven Alegrias Velasco**, tengo conocimientos y pasión por e
 - **Herramientas**: Git, GitHub, Postman
 
 <a href="https://www.linkedin.com/in/ruben-alegrias-b8560a2a5/" target="_blank">
-  <img src="https://img.icons8.com/ios/452/linkedin.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios/452/linkedin.png" width="40" height="40"/>Linkedin 👀
 </a>
-(https://www.linkedin.com/in/ruben-alegrias-b8560a2a5/) 👀
+
