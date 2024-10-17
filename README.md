@@ -1,6 +1,6 @@
 # ¡Hola, Bienvenidos a mi perfil! 👋
 
-## Desarrollador Back-End 💻
+## Desarrollador de Software💻
 
 Me llamo **Ruben Estiven Alegrias Velasco**, tengo conocimientos y pasión por el área de **Programación y Desarrollo de Software**. Actualmente estoy cursando mi carrera técnica en el Politécnico PIO y tengo un nivel B2 en inglés. 🚀
 
