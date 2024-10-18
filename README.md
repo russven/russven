@@ -35,5 +35,10 @@ Me llamo **Ruben Estiven Alegrias Velasco**, tengo conocimientos y pasión por e
 
 📫 Cómo contactarme r.estiven98@gmail.com
 
+<a href="https://www.linkedin.com/in/ruben-alegrias-b8560a2a5/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30">
+</a>
+
+
 <br>
 
